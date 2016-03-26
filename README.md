@@ -40,6 +40,7 @@ Options:
 ## Resources
 
 [Original project](https://github.com/hak5darren/USB-Rubber-Ducky)
+
 Ducky Script [syntax](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript)
 
 ## License
